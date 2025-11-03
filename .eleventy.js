@@ -13,6 +13,6 @@ module.exports = function (eleventyConfig) {
 			input: "src",
 			output: "public"
 		},
-		pathPrefix: "/eleventy-bragdoc/"
+		pathPrefix: "/bragdoc/"
 	}
 }
