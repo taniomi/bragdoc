@@ -12,7 +12,8 @@
   "scripts": {
     "start": "eleventy --serve",
     "build": "eleventy",
-    "deploy": "gh-pages -d public"
+    "deploy": "gh-pages -d public",
+    "publish": "npm run build && npm run deploy"
   },
   "repository": {
     "type": "git",
