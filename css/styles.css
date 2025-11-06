@@ -39,8 +39,8 @@ html[data-theme="dark"] {
 }
 
 body {
-	font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 13px;
+	font-family: "Ubuntu", "Open Sans", "Helvetica Neue", "JetBrainsMono NerdFont", Helvetica, Arial, sans-serif;
+	font-size: 15px;
 	color: var(--text);
 	overflow-x: hidden;
 	background-color: var(--background);
