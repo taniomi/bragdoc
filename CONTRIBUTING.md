@@ -20,3 +20,6 @@
 4. Run `npm run publish` to build the site
 5. Push the changes to the remote repository
 6. Marvel at your new post
+
+> [!TIP]
+> I followed this [blog post](https://css-tricks.com/creating-your-own-bragdoc-with-eleventy/) to make this site run
