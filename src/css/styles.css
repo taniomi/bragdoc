@@ -40,7 +40,7 @@ html[data-theme="dark"] {
 
 body {
 	font-family: "Ubuntu", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 13px;
+	font-size: 15px;
 	color: var(--text);
 	overflow-x: hidden;
 	background-color: var(--background);
@@ -279,7 +279,7 @@ blockquote > p {
 pre > code {
 	display: inline-block; 
 	width: 100px;
-	font-family: 'Roboto Mono', monospace;
+	font-family: 'JetBrainsMono Nerd Font', 'Roboto Mono', monospace;
 	padding: 1em;
 }
 
