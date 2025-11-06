@@ -1,8 +1,8 @@
 {
     "site":
     {
-        "name": "11ty x Bragdocs",
-        "description": "Eleventy theme inspired by Julia Evan's Brag Document. Original Bragdocs design by Jonny Burch and the team at Progression.app.",
+        "name": "Bragdoc",
+        "description": "Personal bragdoc of Milena Tanioka.",
         "url": "https://taniomi.github.io",
         "baseUrl": "/bragdoc/",
         "author":
@@ -12,7 +12,7 @@
         },
         "images":
         {
-            "twitter": "https://i.imgur.com/ewfT3Xg.jpg"
+            "twitter": ""
         }
     }
 }
